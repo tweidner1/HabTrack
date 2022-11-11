@@ -1,5 +1,5 @@
 # HabTrack
-HabTrack is a habit tracking app that was built with Python as part of a further 
+HabTrack is a habit tracker app that was built with Python as part of a further 
 education course with the topic "Object-Oriented and Functional Programming". 
 
 The aim of this app is to aid users in the challenging process of acquiring new good habits.
