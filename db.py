@@ -235,7 +235,7 @@ def create_example_profile(name="example.db", chance_of_checkoff=75):
     # In the following, randomized tracking data will be created for the example profile. Randomizing the tracking data
     # has a few advantages:
     # 1. It makes the example tracking data look more realistic.
-    # 2. It can be used to test if the analytics functionality of the app works as expected not only for one but
+    # 2. It can be used to test if the analytics functionality of the app works as expected not only for one, but
     # for all possible sets of tracking data.
     for x in habit_tasks:
         starting_date = date.fromisoformat(get_creation_date(ex_db, x))
